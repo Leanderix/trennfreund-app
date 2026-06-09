@@ -1,0 +1,27 @@
+# TrennFreund - B2B Abfallmanagement
+
+> Die kompromisslose B2B-App für Handwerk und Abbruch. Digitale Dokumentation von Bauabfällen – direkt auf der Baustelle, entwickelt für die strengen Vorgaben der neuen GewAbfV.
+
+## Stichtag: 1. Juli 2026 - Schluss mit dem Zettel-Chaos
+
+TrennFreund ersetzt fehleranfällige Lagepläne und Papierscheine. Mit der 3. Novelle der GewAbfV (ab Juli 2026) wird die digitale Dokumentation für Handwerker und Bauunternehmen zur strikten Pflicht. 
+
+**Kernvorteile der App:**
+- **Offline-Fähigkeit**: Als PWA konzipiert, benötigt TrennFreund kein Setup, keinen App-Store Download und funktioniert auch ohne Internetverbindung im tiefsten Funkloch.
+- **Kosten**: Transparentes Preismodell für nur 49€ im Monat.
+
+## In 3 Schritten zur rechtssicheren Dokumentation
+
+Die Bedienung ist für Bauleiter und Poliere optimiert (große Buttons, einfache Prozesse):
+
+1. **Abfall fotografieren**: Baustelle und Mulde per App knipsen. Die integrierte KI analysiert die Fotos und ordnet sie sofort der richtigen Abfallfraktion zu.
+2. **KI-Analyse überprüfen & scannen**: Anhand eines Lieferscheins/Wiegescheins füllt die KI alle nötigen Daten aus. Nutzer prüfen die Angaben, passen sie bei Bedarf an und signieren direkt in der App.
+3. **Dokumente fertigstellen**: Anlage 4 oder 5 wird automatisch generiert und ist rechtssicher zur Vorlage beim Amt bereit (PDF Download).
+
+## Warum das Gesetz keine Ausnahmen macht
+
+Die Dokumentationspflicht greift bereits ab einer Bagatellgrenze von 10m³ pro Bauvorhaben. Bei Verstößen drohen empfindliche Bußgelder bis zu 100.000€.
+
+- **Digitale Pflicht**: Elektronische Formulare sind künftig der einzige Standard. Papier reicht nicht mehr.
+- **Verschärfte Trennung**: Mineralik, Glaswolle, Steinwolle und Gips müssen direkt auf der Baustelle zwingend sortenrein getrennt werden.
+- **Echtzeit-Dokumentation**: Nahtlose Erfassung und Zuordnung von Wiegescheinen direkt auf der Baustelle per App-Scan ist essentiell.

@@ -1,0 +1,8 @@
+# TrennFreund
+
+> Die kompromisslose B2B-App für Handwerk und Abbruch zur digitalen Dokumentation von Bauabfällen gemäß GewAbfV.
+
+For comprehensive, single-file documentation ingestion, see the [llms-full.txt](/llms-full.txt).
+
+## Core Application Overview
+- [TrennFreund Home](/): The main platform for digital B2B waste management documentation, simplifying GewAbfV compliance for construction and demolition.
