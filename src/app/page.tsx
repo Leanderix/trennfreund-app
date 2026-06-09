@@ -160,7 +160,7 @@ export default function Home() {
           </div>
 
           {/* Right: Hero image — fills right half on large screens */}
-          <div className="hidden lg:block absolute right-[2%] top-0 bottom-0 w-[48%] pointer-events-none">
+          <div className="hidden lg:block absolute right-[8%] top-0 bottom-0 w-[48%] pointer-events-none">
             <img
               src="/images/new-hero.png"
               alt="Bauarbeiter mit Trennfreund App"
