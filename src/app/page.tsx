@@ -160,11 +160,11 @@ export default function Home() {
           </div>
 
           {/* Right: Hero image — fills right half on large screens */}
-          <div className="hidden lg:block absolute right-[15%] top-0 bottom-0 w-[45%] pointer-events-none">
+          <div className="hidden lg:block absolute left-[35%] right-auto top-0 bottom-0 w-[60%] pointer-events-none">
             <img
               src="/images/Hero_Image.png"
               alt="Bauarbeiter mit Trennfreund App"
-              className="gsap-parallax w-full h-full object-contain object-left-top"
+              className="gsap-parallax w-full h-full object-contain object-center"
             />
           </div>
 
