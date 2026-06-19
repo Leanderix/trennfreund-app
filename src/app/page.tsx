@@ -160,18 +160,18 @@ export default function Home() {
           </div>
 
           {/* Right: Hero image — fills right half on large screens */}
-          <div className="hidden lg:block absolute right-[8%] top-0 bottom-0 w-[48%] pointer-events-none">
+          <div className="hidden lg:block absolute right-[15%] top-0 bottom-0 w-[45%] pointer-events-none">
             <img
-              src="/images/new-hero.png"
+              src="/images/Hero_Image.png"
               alt="Bauarbeiter mit Trennfreund App"
-              className="gsap-parallax w-full h-full object-cover object-left-top"
+              className="gsap-parallax w-full h-full object-contain object-left-top"
             />
           </div>
 
           {/* Mobile image below text */}
           <div className="lg:hidden w-full px-6 pb-10">
             <img
-              src="/images/new-hero.png"
+              src="/images/Hero_Image.png"
               alt="Bauarbeiter mit Trennfreund App"
               className="w-full h-auto object-contain"
             />
